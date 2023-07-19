@@ -1,4 +1,4 @@
-[![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)]
+![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)
 <h1 align="center">Hi 👋, I'm Fuadhul Islam Anas</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
