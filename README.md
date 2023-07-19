@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowkeyasian&show_icons=true&locale=en" alt="lowkeyasian" /></p>
 <img align="right" alt="Coding" width="400" src="https://www.carlswebgraphics.com/thankyou/thank-you-animation-1.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowkeyasian&" alt="lowkeyasian" /></p>
+<img align="right" alt="Coding" width="100" src="https://www.carlswebgraphics.com/thankyou/thank-you-animation-1.gif">
